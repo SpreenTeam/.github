@@ -10,4 +10,4 @@ Somos una organización conformada por los programadores del [Discord](https://d
 
 ----
 
-En caso de tener interés por participar en el equipo de desarrollo, es posible solicitar [postular a programador](https://discord.gg/47tzGeb9Yx) con ciertos requisitos.
+En caso de tener interés por participar en el equipo de desarrollo, es posible [postular a programador](https://discord.gg/47tzGeb9Yx).
