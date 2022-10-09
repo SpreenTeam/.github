@@ -2,7 +2,7 @@
 
 ## Equipo de desarrollo de Spreen
 
-Somos una organización conformada por los programadores del [Discord](https://discord.gg/spreen), buscamos dar una mejor experiencia a toda la comunidad con nuestros inventos y dinámicas.
+Somos una organización enfocada al [Discord](https://discord.gg/spreen), con nuestro equipo de programación buscamos dar una mejor experiencia a toda la comunidad con nuestros inventos y dinámicas.
 
 * [Nuestro patrocinio principal](https://nekohosting.us/)
 * [Aplicar a programador](https://discord.gg/47tzGeb9Yx)
