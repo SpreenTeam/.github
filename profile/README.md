@@ -1,4 +1,4 @@
-![https://discord.gg/spreen](https://github.com/SpreenTeam/SpreenTeam/raw/main/a_ce7573bec8ce60069525c65f50111a07.png) 
+![https://discord.gg/spreen](https://github.com/SpreenTeam/SpreenTeam/raw/main/a_ce7573bec8ce60069525c65f50111a07.png =1810x630) 
 
 ## Get Involved
 
