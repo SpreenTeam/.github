@@ -1,15 +1,9 @@
-<img src="https://github.com/SpreenTeam/.github/blob/main/a_ce7573bec8ce60069525c65f50111a07.gif" width="1810" heigh="630">
+<img src="https://github.com/SpreenTeam/SpreenTeam/raw/main/a_ce7573bec8ce60069525c65f50111a07.png" width="1810" heigh="630">
 
-## Get Involved
+## Equipo de desarrollo de Spreen
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
-
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
-
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+Somos una organización conformada por los programadores del [Discord](https://discord.gg/spreen), buscamos dar una mejor experiencia a toda la comunidad con nuestros inventos y dinámicas.
 
 ----
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+En caso de tener interés por participar en el equipo de desarrollo, es posible solicitar [postular a programador](https://discord.gg/47tzGeb9Yx) con ciertos requisitos.
