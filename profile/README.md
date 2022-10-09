@@ -1,4 +1,4 @@
-![https://discord.gg/spreen](https://github.com/SpreenTeam/SpreenTeam/raw/main/a_ce7573bec8ce60069525c65f50111a07.png =1810x630) 
+<img src="[Assets/icon.png](https://github.com/SpreenTeam/SpreenTeam/raw/main/a_ce7573bec8ce60069525c65f50111a07.png)" width="1810" heigh="630">
 
 ## Get Involved
 
