@@ -4,6 +4,10 @@
 
 Somos una organización conformada por los programadores del [Discord](https://discord.gg/spreen), buscamos dar una mejor experiencia a toda la comunidad con nuestros inventos y dinámicas.
 
+* [Nuestro patrocinio principal](https://nekohosting.us/)
+* [Aplicar a programador](https://discord.gg/47tzGeb9Yx)
+* [Comunidad del Discord](https://discord.gg/spreen)
+
 ----
 
 En caso de tener interés por participar en el equipo de desarrollo, es posible solicitar [postular a programador](https://discord.gg/47tzGeb9Yx) con ciertos requisitos.
